@@ -14,3 +14,8 @@ Web berbasis **Laravel** untuk mengelola dan menampilkan katalog musik. Di sini 
 
 ### Profil
 ![Profil](screenshott/Profil.png)
+
+- **Autentikasi Pengguna**: Akses masuk (Login) sistem untuk pengguna.
+- **Dashboard **: total lagu, pengguna aktif, dan genre lagu terbanyak.
+- **Pengelolaan Data Musik**: Fitur katalog lagu.
+- **Manajemen Profil**: Halaman untuk melihat informasi akun dan melihatv lagu favoritnya.
