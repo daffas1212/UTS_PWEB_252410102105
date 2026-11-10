@@ -2,7 +2,6 @@
 
 @section('title', 'Dashboard')
 
-//nyoba
 @section('content')
     <h1>Halo, {{ $username }}!</h1>
     <p>Selamat datang di NgeMusic, tempat melihat daftar lagu.</p>
