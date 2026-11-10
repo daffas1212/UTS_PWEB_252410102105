@@ -5,7 +5,7 @@
 @section('content')
     <div class="card login-card">
         <h1>Masuk ke NgeMusic </h1>
-        <p>Masukkan username untuk mulai mendengarkan.</p>
+        <p>Masukkan username anda.</p>
 
         <form action="{{ route('login.process') }}" method="POST">
             @csrf
